@@ -1,7 +1,7 @@
 # [Base](http://getbase.org) <br> [![Build Status](https://travis-ci.org/matthewhartman/base.svg?branch=master)](https://travis-ci.org/matthewhartman/base)
 
 ##Modified Single page template with php & .htaccess included
-Removed Less files, modfied gulpfile to watch PHP, and added spot for custom SCSS
+Removed Less files, modfied gulpfile to watch PHP, and added spot for custom SCSS. Forked from [https://github.com/matthewhartman/base](https://github.com/matthewhartman/base)
 
 ## A Rock Solid, Responsive HTML/CSS Framework built to work on all devices big and small.
 Lightweight and minimal code. Spend less time overriding styles and focus more time on creating beautiful website applications.
